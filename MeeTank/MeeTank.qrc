@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="greenLed">Resources/greenLed.png</file>
+        <file alias="redLed">Resources/redLed.png</file>
+        <file alias="manipulator">Resources/manipulator.png</file>
+    </qresource>
+</RCC>
